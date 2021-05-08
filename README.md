@@ -1,4 +1,4 @@
-# Downlaoder XBMC (Kodi) - Python 3
+# Downloader XBMC (Kodi) - Python 3
 
 
     import downloader
